@@ -1,3 +1,5 @@
+![Banner](banner.jpg)
+
 # Greening The Neighbourhood Plan
 Resources to support sustainabiity aspects of the Framlingham Neighbourhood plan review.
 
